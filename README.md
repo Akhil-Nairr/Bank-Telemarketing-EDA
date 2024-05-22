@@ -1,7 +1,3 @@
-# Bank-Telemarketing-EDA
-Exploratory Data Analysis of Bank Telemarketing Campaign.
-
-
 # Bank Telemarketing Campaign EDA
 
 This repository contains the exploratory data analysis (EDA) for the bank telemarketing campaign aimed at enhancing revenue through term deposits.
