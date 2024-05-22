@@ -41,4 +41,3 @@ The bank aims to conduct a cost-efficient telemarketing campaign to promote term
 ## Artifacts
 
 - **Jupyter Notebook**: Contains the detailed EDA.
-- **Presentation**: Summarizes the project findings.
