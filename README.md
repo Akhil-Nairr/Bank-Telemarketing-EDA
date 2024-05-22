@@ -1,4 +1,4 @@
-# Bank Telemarketing Campaign EDA
+# Bank Telemarketing Campaign EDA Using Python
 
 This repository contains the exploratory data analysis (EDA) for the bank telemarketing campaign aimed at enhancing revenue through term deposits.
 
